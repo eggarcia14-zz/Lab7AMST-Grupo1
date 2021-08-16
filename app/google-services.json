@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "987645594495",
+    "firebase_url": "https://trabajo-autonomo-7.firebaseio.com",
+    "project_id": "trabajo-autonomo-7",
+    "storage_bucket": "trabajo-autonomo-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987645594495:android:fb46462dcc828f402da84a",
+        "android_client_info": {
+          "package_name": "com.amst.grupo0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_lL4qh-www9JWYI6u3S3wGTS3D6WKDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987645594495:android:6ec08e0c44d41dba2da84a",
+        "android_client_info": {
+          "package_name": "com.amst.grupo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_lL4qh-www9JWYI6u3S3wGTS3D6WKDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987645594495:android:58d3fb5760aeb1bc2da84a",
+        "android_client_info": {
+          "package_name": "com.amst.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987645594495-2iuoa4hio4fej0gjtq2tunuo4d2tj5j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amst.notification",
+            "certificate_hash": "abe5522380abf55789e50b2d8461c0568c6c1ee8"
+          }
+        },
+        {
+          "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_lL4qh-www9JWYI6u3S3wGTS3D6WKDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987645594495:android:16343d54f202b5a02da84a",
+        "android_client_info": {
+          "package_name": "com.amst.pruebaTA7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987645594495-pa1ig9704sh6052q0hamq6ecr02l21lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amst.pruebaTA7",
+            "certificate_hash": "7a3dd8a49a209ffd346271e210e94be85e052adb"
+          }
+        },
+        {
+          "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_lL4qh-www9JWYI6u3S3wGTS3D6WKDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
